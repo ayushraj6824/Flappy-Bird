@@ -68,7 +68,6 @@ Example:
 ![Gameplay Screenshot](Assets/Screenshot1.png)
 
 ### Game Over Screen
-*(Add your screenshots here)*
 
 Game Over:
 ![Game Over Screenshot](Assets/Screenshot2.png)
